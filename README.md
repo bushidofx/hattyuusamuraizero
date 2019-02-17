@@ -1,21 +1,21 @@
-# ”­’˜ZERO‚Ìƒ\[ƒX‚ğŒöŠJ
+# ç™ºæ³¨ä¾ZERO
 
-* Metatrader4‚Ìƒ`ƒƒ[ƒgã‚ÅExpert Adviser‹@”\‚ğg‚Á‚Ä“®ì‚µ‚Ü‚·B
-* ”­’˜ZERO‚ÍAGUI—pOSS‚Å‚ ‚éumt4gui2v‚ğ—˜—p‚µ‚Ä‚¢‚Ü‚·B
+* Metatrader4ã®ãƒãƒ£ãƒ¼ãƒˆä¸Šã§Expert Adviseræ©Ÿèƒ½ã‚’ä½¿ã£ã¦å‹•ä½œã—ã¾ã™ã€‚
+* ç™ºæ³¨ä¾ZEROã¯ã€GUIç”¨OSSã§ã‚ã‚‹ã€Œmt4gui2ã€ã‚’åˆ©ç”¨ã—ã¦ã„ã¾ã™ã€‚
 
 ![Alt text](zero.JPG)
 
-# ExpertsƒtƒHƒ‹ƒ_(EA–{‘Ì‚Ìƒ\[ƒXj
+# Expertsãƒ•ã‚©ãƒ«ãƒ€(EAæœ¬ä½“ã®ã‚½ãƒ¼ã‚¹ï¼‰
 * hatyusamurai_zero.mq4
 
-# IncludeƒtƒHƒ‹ƒ_
+# Includeãƒ•ã‚©ãƒ«ãƒ€
 * bushido_commonutils.mqh
 * bushido_trailing.mgh
 * mt4gui2.mgh
 
-# LibrariesƒtƒHƒ‹ƒ_
-* mt4gui2.dll(¦j
+# Librariesãƒ•ã‚©ãƒ«ãƒ€
+* mt4gui2.dll(â€»ï¼‰
 
-mt4gui2.dll‚ğˆÈ‰º‚ÌƒTƒCƒg‚©‚çƒ_ƒEƒ“ƒ[ƒh‚µ‚Ü‚·B
+mt4gui2.dllã‚’ä»¥ä¸‹ã®ã‚µã‚¤ãƒˆã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¾ã™ã€‚
 
 http://www.mt4gui.com/download/
